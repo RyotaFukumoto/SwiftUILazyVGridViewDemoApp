@@ -14,6 +14,7 @@
 		A3263CC32965AF1100B6EAFA /* SwiftUILazyVGridViewDemoAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3263CC22965AF1100B6EAFA /* SwiftUILazyVGridViewDemoAppTests.swift */; };
 		A3263CCD2965AF1100B6EAFA /* SwiftUILazyVGridViewDemoAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3263CCC2965AF1100B6EAFA /* SwiftUILazyVGridViewDemoAppUITests.swift */; };
 		A3263CCF2965AF1100B6EAFA /* SwiftUILazyVGridViewDemoAppUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3263CCE2965AF1100B6EAFA /* SwiftUILazyVGridViewDemoAppUITestsLaunchTests.swift */; };
+		A3263CDC2965AF8A00B6EAFA /* Cat.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3263CDB2965AF8A00B6EAFA /* Cat.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		A3263CC82965AF1100B6EAFA /* SwiftUILazyVGridViewDemoAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftUILazyVGridViewDemoAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A3263CCC2965AF1100B6EAFA /* SwiftUILazyVGridViewDemoAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUILazyVGridViewDemoAppUITests.swift; sourceTree = "<group>"; };
 		A3263CCE2965AF1100B6EAFA /* SwiftUILazyVGridViewDemoAppUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUILazyVGridViewDemoAppUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		A3263CDB2965AF8A00B6EAFA /* Cat.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Cat.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,6 +96,7 @@
 		A3263CB02965AF0E00B6EAFA /* SwiftUILazyVGridViewDemoApp */ = {
 			isa = PBXGroup;
 			children = (
+				A3263CDB2965AF8A00B6EAFA /* Cat.swift */,
 				A3263CB12965AF0E00B6EAFA /* SwiftUILazyVGridViewDemoAppApp.swift */,
 				A3263CB32965AF0E00B6EAFA /* ContentView.swift */,
 				A3263CB52965AF1100B6EAFA /* Assets.xcassets */,
@@ -259,6 +262,7 @@
 			files = (
 				A3263CB42965AF0E00B6EAFA /* ContentView.swift in Sources */,
 				A3263CB22965AF0E00B6EAFA /* SwiftUILazyVGridViewDemoAppApp.swift in Sources */,
+				A3263CDC2965AF8A00B6EAFA /* Cat.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
